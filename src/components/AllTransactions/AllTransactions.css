@@ -1,0 +1,23 @@
+.item {
+	margin: 1rem;
+	padding: 1rem;
+	border-bottom: 1px solid rgb(235, 233, 233);
+	display: flex;
+	justify-content: space-around;
+}
+
+.btn {
+
+	height: 30px;
+	width: 30px;
+	border: none;
+	outline: none;
+	background: none;
+	margin-left: 2rem;
+
+}
+
+.btn-img {
+	width: 25px;
+	height: 25px;
+}

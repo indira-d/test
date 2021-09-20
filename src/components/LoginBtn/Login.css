@@ -1,0 +1,15 @@
+.login{
+	border: none;
+	outline: none;
+	color: white;
+	letter-spacing: 1px;
+	background: none;
+	font-size: 16px;
+	margin-left: 20px;
+	font-weight: 700;
+}
+
+.login:hover{
+
+	color: rgb(136, 137, 138);
+}
